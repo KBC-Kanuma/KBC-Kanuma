@@ -7,4 +7,3 @@ i want to make file share tool...
   <img src="https://github-readme-stats.vercel.app/api?username=KBC-Kanuma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBC-Kanuma&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-<script>alert("スシダ")</script>
