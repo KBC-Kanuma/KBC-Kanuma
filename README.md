@@ -1,7 +1,7 @@
-## KBC
+<h1>KBC</h1>
 <hr>
-## who is us?
-we are kanuma broad casting club mechanical department,KBC.
+<h2>who is us?</h2>
+  we are kanuma broad casting club mechanical department,KBC.
 i want to make file share tool...
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KBC-Kanuma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
