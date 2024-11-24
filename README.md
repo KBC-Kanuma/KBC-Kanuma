@@ -1,6 +1,6 @@
-##KBC
+## KBC
 <hr>
-# who is us?
+## who is us?
 we are kanuma broad casting club mechanical department,KBC.
 i want to make file share tool...
 <div align="center">
